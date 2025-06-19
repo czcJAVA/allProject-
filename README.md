@@ -15,7 +15,7 @@
 | 003  | [python 基于python的招聘数据分析与可视化平台（爬虫可视化分析）](https://github.com/czcJAVA/JobRecommend)    | https://github.com/czcJAVA/JobRecommend |
 | 004  | [微信小程序+springboot+vue 校园跑腿小程序](https://github.com/czcJAVA/arrand)    | https://github.com/czcJAVA/arrand          |
 | 005  | [微信小程序+springboot+vue 医院挂号小程序](https://github.com/czcJAVA/HospitalRegistration) | https://github.com/czcJAVA/HospitalRegistration                       |
-| 006  | [springboot 房屋租赁系统(15000字文档)](https://github.com/giteecode/houserent-public) | https://github.com/giteecode/houserent-public                |
+| 006  | [springboot 基于springboot房屋租赁系统(协同推荐算法)](https://github.com/czcJAVA/houserent/tree/main) | https://github.com/czcJAVA/houserent/tree/main               |
 | 007  | [springboot 个人博客系统(源码+数据库+9000字论文)](https://github.com/giteecode/My-Blog-master-public) | https://github.com/giteecode/My-Blog-master-public           |
 | 008  | [springboot +vue 宠物交易/租赁系统](https://github.com/giteecode/pettrading-main-public) | https://github.com/giteecode/pettrading-main-public          |
 | 009  | [springboot 宠物医院商城(11000字论文)](https://github.com/giteecode/PetHospital-public) | https://github.com/giteecode/PetHospital-public              |
