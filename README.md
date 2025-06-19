@@ -10,7 +10,7 @@
 
 | 序号 | 项目                                                         | github地址                                                   |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 001  | [springboot 电商书城](https://github.com/giteecode/bookstore-master-public) | https://github.com/giteecode/bookstore-master-public         |
+| 001  | [python 基于深度学习的动作识别检测预警系统](https://github.com/czcJAVA/action-detect-yolov8）.        |
 | 002  | [springboot酒店预订管理管理（10000字论文）](https://github.com/giteecode/spring-boot-hotel-manager-public) | https://github.com/giteecode/spring-boot-hotel-manager-public |
 | 003  | [springboot 超市管理系统(源码+数据库+15000字论文)](https://github.com/giteecode/springboot-thymeleaf-supermarket-system-master-public) | https://github.com/giteecode/springboot-thymeleaf-supermarket-system-master-public |
 | 004  | [springboot+vue 超市管理系统](https://github.com/giteecode/supermarket-vue-public) | https://github.com/giteecode/supermarket-vue-public          |
