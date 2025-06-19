@@ -8,13 +8,13 @@
 
 ### 选题+开题报告+任务书+程序定制+安装调试+论文+答辩ppt  都可以做
 
-| 序号 | 项目                                                         | github地址                                                   |
-| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 001  | [python 基于深度学习的动作识别检测预警系统](https://github.com/czcJAVA/action-detect-yolov8)| https://github.com/czcJAVA/action-detect-yolov8 |
+| 序号 | 项目                                                            | github地址                                                   |
+| ---- | ----------------------------------------------------------------| ------------------------------------------------------------ |
+| 001  | [python 基于深度学习的动作识别检测预警系统](https://github.com/czcJAVA/action-detect-yolov8)| https://github.com/czcJAVA/action-detect-yolov8    |
 | 002  | [python 基于深度学习车辆特征识别系统）](https://github.com/czcJAVA/vehicleRecognitionSystemBasedOnDeepLearning) |https://github.com/czcJAVA/vehicleRecognitionSystemBasedOnDeepLearning |
-| 003  | [springboot 超市管理系统(源码+数据库+15000字论文)](https://github.com/giteecode/springboot-thymeleaf-supermarket-system-master-public) | https://github.com/giteecode/springboot-thymeleaf-supermarket-system-master-public |
-| 004  | [springboot+vue 超市管理系统](https://github.com/giteecode/supermarket-vue-public) | https://github.com/giteecode/supermarket-vue-public          |
-| 005  | [springboot 人事oa管理系统](https://github.com/giteecode/oa-public) | https://github.com/giteecode/oa-public                       |
+| 003  | [python 基于python的招聘数据分析与可视化平台（爬虫可视化分析）](https://github.com/czcJAVA/JobRecommend)    | https://github.com/czcJAVA/JobRecommend |
+| 004  | [微信小程序+springboot+vue 校园跑腿小程序](https://github.com/czcJAVA/arrand)    | https://github.com/czcJAVA/arrand          |
+| 005  | [微信小程序+springboot+vue 医院挂号小程序](https://github.com/czcJAVA/HospitalRegistration) | https://github.com/czcJAVA/HospitalRegistration                       |
 | 006  | [springboot 房屋租赁系统(15000字文档)](https://github.com/giteecode/houserent-public) | https://github.com/giteecode/houserent-public                |
 | 007  | [springboot 个人博客系统(源码+数据库+9000字论文)](https://github.com/giteecode/My-Blog-master-public) | https://github.com/giteecode/My-Blog-master-public           |
 | 008  | [springboot +vue 宠物交易/租赁系统](https://github.com/giteecode/pettrading-main-public) | https://github.com/giteecode/pettrading-main-public          |
